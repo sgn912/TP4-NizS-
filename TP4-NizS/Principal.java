@@ -27,13 +27,13 @@ public class Principal {
                 case 2:
                     Ejercicio2.ejecutar();
                     break;
-                     case 3:
+                case 3:
                     Ejercicio3.ejecutar();
                     break;
                 case 4:
                     Ejercicio4.ejecutar();
                     break;
-                    case 5:
+                case 5:
                     Ejercicio5.ejecutar();
                     break;
                 case 0:
