@@ -15,7 +15,10 @@ public class Principal {
         do {
             System.out.println("\n--- MENÚ TP4 ---");
             System.out.println("1. Ejecutar Ejercicio 1 - Tienda de Ropa");
-            System.out.println("2. Ejecutar Ejercicio 2 - Agenda Telefónica");
+            System.out.println("2. Ejecutar Ejercicio 2 - Agenda Telefonica");
+            System.out.println("1. Ejecutar Ejercicio 3 - Sistema Bancario");
+            System.out.println("2. Ejecutar Ejercicio 4 - Gestion de Empleados");
+            System.out.println("1. Ejecutar Ejercicio 5 - Prestamos Bancarios");
             System.out.println("0. Salir");
             System.out.print("Seleccione una opción: ");
             opcion = scanner.nextInt();
