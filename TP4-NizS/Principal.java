@@ -2,6 +2,8 @@ package resol.NizS;
 
 import resol.NizS.ejercicio1.Ejercicio1;
 import resol.NizS.ejercicio2.Ejercicio2;
+import resol.NizS.ejercicio3.Ejercicio3;
+import resol.NizS.ejercicio4.Ejercicio4;
 import java.util.Scanner;
 
 public class Principal {
@@ -23,6 +25,12 @@ public class Principal {
                     break;
                 case 2:
                     Ejercicio2.ejecutar();
+                    break;
+                     case 3:
+                    Ejercicio3.ejecutar();
+                    break;
+                case 4:
+                    Ejercicio4.ejecutar();
                     break;
                 case 0:
                     System.out.println("Saliendo...");
